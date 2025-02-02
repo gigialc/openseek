@@ -136,18 +136,7 @@ export default function Home() {
                     <p>3. Russian Response → GPT-3.5 Translation → English Output</p>
                   </div>
                 </section>
-
-                <section className="space-y-3">
-                  <h3 className="text-lg font-semibold text-pink-500">Technology Stack</h3>
-                  <ul className="list-disc list-inside space-y-2 ml-2">
-                    <li>Next.js 14 with TypeScript</li>
-                    <li>OpenAI GPT-3.5 for translations</li>
-                    <li>DeepSeek AI for processing</li>
-                    <li>Real-time process visualization</li>
-                    <li>Tailwind CSS for modern UI</li>
-                  </ul>
-                </section>
-
+                
                 <section className="space-y-3">
                   <h3 className="text-lg font-semibold text-pink-500">Research Goals</h3>
                   <p>
