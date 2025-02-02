@@ -70,8 +70,8 @@ export default function Home() {
             OpenSeek <span className="text-pink-500">👀</span>
           </h1>
           <div className="flex items-center space-x-4">
-            <span className="text-xs bg-gray-800/60 px-4 py-2 rounded-2xl text-gray-300">Translation: GPT-3.5</span>
-            <span className="text-xs bg-gray-800/60 px-4 py-2 rounded-2xl text-gray-300">AI: DeepSeek</span>
+            {/* <span className="text-xs bg-gray-800/60 px-4 py-2 rounded-2xl text-gray-300">Translation: GPT-3.5</span>
+            <span className="text-xs bg-gray-800/60 px-4 py-2 rounded-2xl text-gray-300">AI: DeepSeek</span> */}
             <button
               onClick={() => setShowResearchModal(true)}
               className="text-xs bg-pink-600/80 hover:bg-pink-600 px-4 py-2 rounded-2xl text-white transition-colors flex items-center gap-2"
